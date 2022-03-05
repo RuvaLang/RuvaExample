@@ -1,0 +1,14 @@
+package me.hydos.ruvaExample;
+
+public void main() {
+    print!("Hello World! 2\n");
+
+    u32 coolInt = 454354353;
+
+    print!("The number {} is quite great, No?\n", coolInt);
+
+    //&str waterpickerString = "This is so fucking cursed";
+    //String waterpickerString = new String("This is so fucking cursed");
+
+    print!("This is so fucking cursed");
+}
